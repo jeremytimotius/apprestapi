@@ -1,0 +1,22 @@
+{
+  "name": "apprestapi",
+  "version": "1.0.0",
+  "description": "latihan app rest api dengan node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeremytimotius/apprestapi.git"
+  },
+  "keywords": [
+    "apprestapi"
+  ],
+  "author": "jeremy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeremytimotius/apprestapi/issues"
+  },
+  "homepage": "https://github.com/jeremytimotius/apprestapi#readme"
+}
